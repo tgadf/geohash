@@ -23,7 +23,7 @@ setup(
     ],
     license='MIT',
     install_requires=[],
-    packages=[],
+    packages=['geohash'],
     scripts=[],
     zip_safe=False,
     include_package_data=True,
